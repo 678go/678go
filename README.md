@@ -9,6 +9,15 @@
 - ⚡  兴趣爱好：搞钱
 - 🏫  毕业学校：KU（网络工程 - 学士）
 
-
 ## Stats
 [![ylinyang's github stats](https://github-readme-stats.vercel.app/api?username=ylinyang)](https://github.com/anuraghazra/github-readme-stats)
+
+## Activity
+[![ylinyang's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ylinyang&theme=xcode)](https://github.com/sun0225SUN)
+
+## mood
+<h1 align="center">
+	<a href="https://sunguoqi.com/">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快呀!&center=true&size=27">
+	</a>
+</h1>
