@@ -8,4 +8,4 @@
 - 🏫  毕业学校：KU（网络工程 - 学士）
 
 ## Stats
-[![ylinyang's github stats](https://github-readme-stats.vercel.app/api?username=ylinyang)](https://github.com/anuraghazra/github-readme-stats)
+[![678go's github stats](https://github-readme-stats.vercel.app/api?username=678go)](https://github.com/anuraghazra/github-readme-stats)
